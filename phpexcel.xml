@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="library" method="upgrade" version="1.8.0">
+	<name>PHPExcel</name>
+	<libraryname>phpexcel</libraryname>
+	<author>PHPOffice</author>
+	<creationDate></creationDate>
+	<copyright></copyright>
+	<license>GNU LESSER GENERAL PUBLIC LICENSE - see license.md</license>
+	<authorEmail></authorEmail>
+	<authorUrl></authorUrl>
+	<version>1.8</version>
+	<description>
+		This is simply an installable Joomla library package of a tested PHPOffice\PHPExcel 
+	</description>
+	<files>
+		<folder>PHPExcel</folder>
+		<file>PHPExcel.php</file>
+		<file>license.md</file>
+	</files>
+</extension>
